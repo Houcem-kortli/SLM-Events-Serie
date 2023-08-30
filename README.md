@@ -5,4 +5,4 @@ Config.json
 
 main.py
 : Generation Code
-(Python code file to read the SLM input then create the output file of the event series)
+(Python code that read the SLM input parameters then create the event series output files)
