@@ -1,8 +1,8 @@
 # SLM-Events-Serie
-File: Config.json
+Config.json
 : SLM Parameters
 (Introduce the SLM Inputs to generate the events-serie for material deposition and laser scanning according to the chosen SLM parameters)
 
-File: main.py
+main.py
 : Generation Code
 (Python code file to read the SLM input then create the output file of the event series)
