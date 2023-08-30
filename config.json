@@ -1,0 +1,22 @@
+{
+  "max_x": 0.6,
+  "max_y": 0.1,
+  "max_z": 0.06,
+  "interline_gap": 0.1,
+  "layer_depth": 0.03,
+  "speed":400,
+  "powder_deposit_time": 0.0011,
+  "average_layering_time": 0.008,
+  "puissance": 100000,
+
+  "roller_x_left": -0.1,
+  "roller_x_right": 0.7,
+  "scanning": "ZIG_ZAG_XY",
+  "possible_scanning_values": [
+    "ZIG_ZAG_XY",
+    "ZIG_ZAG_X",
+    "ONE_DIRECTION_XY",
+    "ONE_DIRECTION_X",
+    "SPIRAL"
+  ]
+}
